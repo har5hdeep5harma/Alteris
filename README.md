@@ -65,7 +65,7 @@ Alteris is built with a modern, high-performance Python stack:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/alteris.git
+   git clone https://github.com/har5hdeep5harma/Alteris
    cd alteris
 
 2. **Create and activate a virtual environment:**
