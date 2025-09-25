@@ -1,5 +1,3 @@
-<iframe src="https://drive.google.com/file/d/14YuMQWmUeFQgXmurgmWKjXYr85IcMUCq/preview" width="640" height="480" allow="autoplay"></iframe>
-
 # Alteris 🕵️
 
 > **When numbers drift and tables sway, we light the path and show the way.**
