@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,department,salary,performance_rating
+101,Alice,Smith,Engineering,90000,4.5
+102,Bob,Johnson,Marketing,82000,4.2
+103,Charlie,Brown,Engineering,110000,4.8
+105,Eve,Adams,Sales,88000,4.1
