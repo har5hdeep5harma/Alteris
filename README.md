@@ -12,6 +12,8 @@ Think of it as a **"GitHub Diff" for your data files**.
 It automates the tedious and error-prone task of manually comparing spreadsheets or CSVs, providing a clear, detailed, and actionable report on every change that occurred between a **"base" (old)** and a **"current" (new)** version of your data.
 
 ---
+## Live Demo: [Alteris](https://alteris.streamlit.app/)
+---
 
 ## ✨ Key Features
 
