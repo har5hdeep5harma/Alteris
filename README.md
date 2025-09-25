@@ -1,3 +1,4 @@
+[![Watch the video](https://raw.githubusercontent.com/har5hdeep5harma/Alteris/refs/heads/main/Sample%20Data/cover.png)](https://drive.google.com/file/d/14YuMQWmUeFQgXmurgmWKjXYr85IcMUCq/view?usp=sharing)
 # Alteris 🕵️
 
 > **When numbers drift and tables sway, we light the path and show the way.**
