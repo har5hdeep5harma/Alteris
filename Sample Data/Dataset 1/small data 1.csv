@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,department,salary,temp_badge_id,tempui
+101,Binod,Kumar,Engineering,90000,T101,1
+102,Devendra,Singh,Marketing,75000,T102,2
+103,Amitabh,Bachchan,Engineering,110000,T103,3
+104,Bhupendra,Jogi,Sales,85000,T104,4
